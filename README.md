@@ -1,3 +1,3 @@
 # manipulando-dom
 
-Projeto realizado pela Digital Inovation One.
+Projeto realizado juntamente com a Digital Inovation One.
